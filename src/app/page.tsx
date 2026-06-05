@@ -136,7 +136,7 @@ export default function LandingPage() {
         {
           value: "24+",          title: "Technologies"},
       ]}
-      imageSrc="https://drive.google.com/thumbnail?id=1aHohdafJv40H1rKgKxlCoyUQF0J2dZ9l&sz=w1000"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BbKyR1XqWGXQEFUnBcHuVZ8oXu/uploaded-1780664250504-i1jz0zju.jpg"
       imageAlt="MD Mamun Akhtar Profile Image"
       mediaAnimation="slide-up"
       metricsAnimation="blur-reveal"

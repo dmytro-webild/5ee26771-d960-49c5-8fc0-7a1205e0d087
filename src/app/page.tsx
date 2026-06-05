@@ -210,7 +210,7 @@ export default function LandingPage() {
           title: "Technologies",
         },
       ]}
-      imageSrc="https://drive.google.com/thumbnail?id=1aHohdafJv40H1rKgKxlCoyUQF0J2dZ9l&sz=w1000"
+      imageSrc="https://drive.google.com/thumbnail?id=1aHohdafJv40H1rKgKxlCoyUQF0J2dZ9l&sz=w1000&_wi=1"
       imageAlt="MD Mamun Akhtar Profile Image"
       mediaAnimation="slide-up"
       metricsAnimation="blur-reveal"
@@ -234,7 +234,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/representations-user-experience-interface-design_23-2150104494.jpg",
             imageAlt: "Frontend development interactive components",
           },
-          imageSrc: "https://drive.google.com/thumbnail?id=1aHohdafJv40H1rKgKxlCoyUQF0J2dZ9l&sz=w1000",
+          imageSrc: "https://drive.google.com/thumbnail?id=1aHohdafJv40H1rKgKxlCoyUQF0J2dZ9l&sz=w1000&_wi=2",
           imageAlt: "react nextjs mobile ui",
         },
         {
@@ -248,7 +248,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/close-up-computers-data-center-running-server-rigs-diagnostic-tests_482257-123527.jpg",
             imageAlt: "Docker and AWS infrastructure",
           },
-          imageSrc: "https://drive.google.com/thumbnail?id=16j1m2kNhG-OXIeFSSIcTeaOLSruoy6t4&sz=w1000",
+          imageSrc: "https://drive.google.com/thumbnail?id=16j1m2kNhG-OXIeFSSIcTeaOLSruoy6t4&sz=w1000&_wi=1",
           imageAlt: "react nextjs mobile ui",
         },
         {
@@ -262,7 +262,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/videographer-using-editing-software-color-correcting_482257-121794.jpg",
             imageAlt: "Video editing timeline",
           },
-          imageSrc: "https://img.youtube.com/vi/xcaiSpelMow/hqdefault.jpg",
+          imageSrc: "https://img.youtube.com/vi/xcaiSpelMow/hqdefault.jpg?_wi=1",
           imageAlt: "react nextjs mobile ui",
         },
       ]}
@@ -284,7 +284,7 @@ export default function LandingPage() {
           name: "EcoFoodWise",
           price: "2025",
           variant: "Strategy & Design - App Development",
-          imageSrc: "https://drive.google.com/thumbnail?id=16j1m2kNhG-OXIeFSSIcTeaOLSruoy6t4&sz=w1000",
+          imageSrc: "https://drive.google.com/thumbnail?id=16j1m2kNhG-OXIeFSSIcTeaOLSruoy6t4&sz=w1000&_wi=2",
           imageAlt: "EcoFoodWise App Interface",
         },
         {
@@ -292,7 +292,7 @@ export default function LandingPage() {
           name: "Dynamic Edit",
           price: "2025",
           variant: "Interactive Content - Video Production",
-          imageSrc: "https://img.youtube.com/vi/xcaiSpelMow/hqdefault.jpg",
+          imageSrc: "https://img.youtube.com/vi/xcaiSpelMow/hqdefault.jpg?_wi=2",
           imageAlt: "Dynamic Edit Video Still",
         },
         {
